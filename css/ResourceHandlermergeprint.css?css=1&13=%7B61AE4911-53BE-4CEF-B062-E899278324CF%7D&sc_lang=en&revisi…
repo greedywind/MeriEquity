@@ -1,1 +1,70 @@
 
+/*---- print-----*/
+#bannerwrapper, #leftcol, #breadcrumb, #backtoTop, #footerwrapper,#toplinks,.nav_wrapper,footer ,.back-to-link,.back-to-link1,header .logo_wrapper img.logo_white,.search_switcher,.content-banner-wrapper{display:none !important;}
+header .logo_wrapper img.logo_blue{display:block !important;}
+header{position:static;}
+#twocolright{width:100% !important;}
+.nojs .snapdown-title p:after{display:none;}
+.snapdown-content.board{display:block !important;}
+.snapdown-title p::after{content:"";}
+.snapdown-title.active p::after{content:"";}
+.fixed-page-utility, .emailAlertsWrapper { display:none !important; }
+.section3Link, .section1Link { position: relative; }
+
+.pr-body ul,
+.pr-body ol,
+.pr-body p,
+.pr-body small, 
+.pr-body center, 
+.pr-body b, 
+.pr-body u,
+.pr-body table, 
+.pr-body span,
+.pr-body hl1,
+.pr-body hl2,
+.pr-body hl3,
+.pr-body i{ font-family:arial !important; line-height:2.4rem; }
+
+
+
+.pr-body hl1,
+.pr-body hl2,
+.pr-body hl3,
+.pr-body p, 
+.pr-body span, 
+.pr-body ul li, 
+.pr-body ol li, 
+.pr-body small, 
+.pr-body table
+{ font-size:1.6rem !important; }
+
+.pr-body p  span, 
+.pr-body p  span p, 
+.pr-body p  p, 
+.pr-body span span,
+.pr-body p small, 
+.pr-body span small,
+.pr-body span p, 
+.pr-body ul li ul li, 
+.pr-body ul li ul li ul li, 
+.pr-body ol li ol li, 
+.pr-body ol li ol li ol li, 
+.pr-body ul li *,
+.pr-body ul li p, 
+.pr-body ul li p, 
+.pr-body ul li p span, 
+.pr-body table table,
+.pr-body table tr td, 
+.pr-body table tr th,
+.pr-body table tr td span,
+.pr-body table tr td small, 
+.pr-body table tr td p,
+.pr-body table tr td p small, 
+.pr-body table tr td p span, 
+.pr-body table tr td ul li, 
+.pr-body table tr td ol li{ font-size:1.6rem !important; }
+
+
+#headerwrapper { position: relative; }
+.StockPriceWrapper { display:none; }
+.nav-container { display: none; }
